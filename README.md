@@ -1,16 +1,14 @@
-## Hi there 👋
+# ShowYourIQ
 
-<!--
-**showyouriq/showyouriq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A free online IQ test at [showyouriq.com](https://showyouriq.com).
 
-Here are some ideas to get you started:
+- 32 reasoning questions in four areas: patterns, series, spatial and logic
+- About 25 minutes, one question at a time
+- Your score, its band and its margin of error, free, with no email or sign-up
+- Optional results pack, $4.99 once: percentile, area scores, every question explained, and a certificate anyone can verify
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also on the site: a reaction time test, a digit span test and a Stroop test, each with the research behind it.
+
+How the score is worked out: https://showyouriq.com/method/
+
+Contact: support@showyouriq.com
